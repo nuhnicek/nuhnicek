@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Golang, js, networking**
 
-- 📫 How to reach me **nuhnic3k@rapidhost.app**
+- 📫 How to reach me **petr.beunier@everproduction.cz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
