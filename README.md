@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nuhnicek</h1>
-<h3 align="center">very lazy backend developer</h3>
+<h1 align="center">Hi, I'm Petr Beunier</h1>
+<h3 align="center">Ambitious Fullstack developer who loves to learn new things. </h3>
 
-- 🔭 I’m currently working on [RapidHost](https://rapidhost.app)
+- 🔭 I’m currently working on [Roerun Cloud](https://roerun.com)
 
 - 🌱 I’m currently learning **GraphQL, Rust and frontend technilogies**
 
-- 💬 Ask me about **Golang, js, networking**
+- 💬 Ask me about **Golang, databases, virtualization, kubernetes, networking and basics of security**
 
-- 📫 How to reach me **petr.beunier@everproduction.cz**
+- 📫 How to reach me **petrbeu2312@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nuhnic3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuhnic3k" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/petr-beunier-28b04735a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/petr_beu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="petr_beu" height="30" width="40" /></a>
 </p>
 
